@@ -1,7 +1,4 @@
 // Função para verificar se um número e primo
-
-#id="numerosprimos"
-
 function isPrime(num) {
     if (num <= 1) return false; // Os números menores ou iguais a 1 nâo são primos
     if (num <= 3) return true; // Os numeros 2 e 3 são números primos
