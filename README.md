@@ -1,2 +1,4 @@
 # activitiesUnicarioca
-Activities of Unicarioca University
+🇧🇷: Atividades da Unicarioca.
+🇺🇸: Activities of Unicarioca University
+
